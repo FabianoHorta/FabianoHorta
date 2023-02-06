@@ -1,7 +1,5 @@
 ### Olá, sou Fabiano Almeida, Administrador de empresas e estudante de Desenvolvimento Full Stack 👋
 
-<!--
-**FabianoHorta/fabianohorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
  <div>
